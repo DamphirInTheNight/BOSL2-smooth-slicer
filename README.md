@@ -6,7 +6,7 @@ BOSL2 saved me months of work, and I wanted to give back to the community by sha
 
 ## Preview
 
-![Smooth Slicer Preview](images/2 Smooth Skin.png)
+![Smooth Slicer Preview](images/2_Smooth_Skin.png)
 
 ## What it does
 
