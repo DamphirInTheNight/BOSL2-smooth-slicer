@@ -4,9 +4,18 @@ This is a utility script for OpenSCAD designed to extend the geometric capabilit
 
 BOSL2 saved me months of work, and I wanted to give back to the community by sharing this tool. It is free to use, modify, and integrate into your own workflows or into BOSL2 itself.
 
-## Preview
+## Skin as we may know it
+![Smooth Slicer Preview](images/1_Simple_skin.png)
 
+## Smooth skin
 ![Smooth Slicer Preview](images/2_Smooth_Skin.png)
+
+## Smooth skin along 2d path
+![Smooth Slicer Preview](images/3_Smooth_Skin_along_2d_Path.png)
+
+## Projection cut at distance
+![Smooth Slicer Preview](images/4_Smooth_Projection_cut_0.png)
+![Smooth Slicer Preview](images/7_Smooth_Projection_cut_10.png)
 
 ## What it does
 
